@@ -20,5 +20,7 @@ Configuration
 =============
 After first run, a new file mc.starvalor.bloomineck.cfg will be created in the .\Star Valor\BepInex\config\ folder.
 
-Channge the intensity value to suit.  You can also modify this in game using Configuration Manager: https://github.com/BepInEx/BepInEx.ConfigurationManager/releases  
+Channge the intensity value to suit.  Value should be between 0 and 1.0.  
+  
+You can also modify this in game using Configuration Manager: https://github.com/BepInEx/BepInEx.ConfigurationManager/releases  
   
