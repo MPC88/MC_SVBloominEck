@@ -18,7 +18,7 @@ Install
 
 Configuration  
 =============
-After first run, a new file mc.starvalor.bloomeck.cfg will be created in the .\Star Valor\BepInex\config\ folder.
+After first run, a new file mc.starvalor.bloomineck.cfg will be created in the .\Star Valor\BepInex\config\ folder.
 
 Channge the intensity value to suit.  You can also modify this in game using Configuration Manager: https://github.com/BepInEx/BepInEx.ConfigurationManager/releases  
   
